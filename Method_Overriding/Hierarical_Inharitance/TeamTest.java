@@ -2,7 +2,7 @@ package Method_Overriding.Hierarical_Inharitance;
 
 class Employee {
     void work() {
-        System.out.println("working");
+        System.out.println("working Fine");
     }
 }
 
