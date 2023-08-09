@@ -1,4 +1,4 @@
-package Method_Overriding.Hierarical_Inharitance;
+package Method_Overriding.Multi_Level_Inheritance;
 
 class Whatsapp1 {
     void sendMessage() {
