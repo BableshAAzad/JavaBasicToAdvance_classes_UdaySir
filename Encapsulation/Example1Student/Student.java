@@ -1,4 +1,4 @@
-package Encapsulation.Example1;
+package Encapsulation.Example1Student;
 
 public class Student {
     private int age;

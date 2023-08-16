@@ -1,4 +1,4 @@
-package Encapsulation.Example2;
+package Encapsulation.Example2Cars;
 
 public class MainCar {
     public static void main(String[] args) {
