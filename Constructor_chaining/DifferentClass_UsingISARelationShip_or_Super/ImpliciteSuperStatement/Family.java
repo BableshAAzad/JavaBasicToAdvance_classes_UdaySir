@@ -7,7 +7,7 @@ class Father {
 }
 
 class Son extends Father {
-    Son() {
+    Son() {;
         System.out.println(2);
     }
 }
