@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "Polymorphism/Compile_Time_Polymorphism",
+        "Polymorphism/Run_Time_Polymorphism"
+    ]
+}
