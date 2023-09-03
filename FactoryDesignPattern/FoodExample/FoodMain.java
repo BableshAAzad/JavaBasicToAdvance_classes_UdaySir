@@ -42,8 +42,8 @@ class Hotel {
 public class FoodMain {
     public static void main(String[] args) {
         // if choise is 1 -> Food obj = new Idly();
-        // if choise is 2 -> Dosa obj = new Dosa();
-        // if choise is 3 -> Poori obj = new Poori();
+        // if choise is 2 -> Food obj = new Dosa();
+        // if choise is 3 -> Food obj = new Poori();
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the order of food : ");
         int n = sc.nextInt();

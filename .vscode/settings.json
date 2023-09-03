@@ -2,6 +2,8 @@
     "java.project.sourcePaths": [
         "Polymorphism/Run_Time_Polymorphism",
         "Polymorphism/Compile_Time_Polymorphism",
-        "FactoryDesignPattern/FoodExample"
+        "FactoryDesignPattern/FoodExample",
+        "Constructor_chaining/SameClass_UsingThis",
+        "AccessSpecifier"
     ]
 }

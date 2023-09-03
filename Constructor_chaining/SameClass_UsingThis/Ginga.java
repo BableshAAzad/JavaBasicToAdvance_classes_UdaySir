@@ -1,4 +1,4 @@
-package Constructor_chaining.SameClass_UsingThis;
+// package Constructor_chaining.SameClass_UsingThis;
 
 public class Ginga {
     Ginga(int x) {
