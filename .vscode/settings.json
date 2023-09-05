@@ -1,9 +1,13 @@
 {
     "java.project.sourcePaths": [
+        "TypeCasting/PrimitiveCasting/Narrowing",
         "Polymorphism/Run_Time_Polymorphism",
         "Polymorphism/Compile_Time_Polymorphism",
+        "Method_Over_Loading",
+        "Interface",
         "FactoryDesignPattern/FoodExample",
         "Constructor_chaining/SameClass_UsingThis",
-        "AccessSpecifier"
+        "AccessSpecifier",
+        "MethodOverLoading"
     ]
 }

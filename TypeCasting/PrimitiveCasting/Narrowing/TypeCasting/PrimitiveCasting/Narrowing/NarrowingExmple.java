@@ -4,7 +4,7 @@ package TypeCasting.PrimitiveCasting.Narrowing;
 
 public class NarrowingExmple {
     public static void main(String[] args) {
-        double a = 13.45;
+        double a = 133333333333.45;
         int b = (int) a;
         System.out.println(a + " " + b);
 

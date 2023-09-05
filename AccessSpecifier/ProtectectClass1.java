@@ -1,3 +1,3 @@
-protected class ProtectectClass1 {
+ class ProtectectClass1 {
     
 }

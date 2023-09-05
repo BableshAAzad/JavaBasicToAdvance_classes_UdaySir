@@ -2,6 +2,7 @@ package Interface;
 
 interface Developer{
     void developer();
+    // void manager();
 }
 interface Tester{
     void tester();
