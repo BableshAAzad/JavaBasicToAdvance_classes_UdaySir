@@ -1,4 +1,4 @@
-package Class_Cast_Exeption;
+package expl;
 
 class Fathera {
     int x = 10;
