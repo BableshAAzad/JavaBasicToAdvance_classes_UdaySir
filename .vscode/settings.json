@@ -1,13 +1,16 @@
 {
     "java.project.sourcePaths": [
         "TypeCasting/PrimitiveCasting/Narrowing",
+        "TypeCasting/NonPrimitiveCasting/DownCasting",
         "Polymorphism/Run_Time_Polymorphism",
         "Polymorphism/Compile_Time_Polymorphism",
         "MethodOverLoading",
         "Interface",
         "FactoryDesignPattern/FoodExample",
+        "Encapsulation/ExpoEn",
         "Constructor_chaining/SameClass_UsingThis",
+        "Class_Cast_Exeption",
         "AccessSpecifier",
-        "Class_Cast_Exeption"
+        "ObjectClass/hashcodeExp"
     ]
 }
