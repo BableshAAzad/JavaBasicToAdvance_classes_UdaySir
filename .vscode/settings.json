@@ -4,13 +4,16 @@
         "TypeCasting/NonPrimitiveCasting/DownCasting",
         "Polymorphism/Run_Time_Polymorphism",
         "Polymorphism/Compile_Time_Polymorphism",
+        "ObjectClass/hashcodeExp",
         "MethodOverLoading",
         "Interface",
         "FactoryDesignPattern/FoodExample",
         "Encapsulation/ExpoEn",
+        "Datatypes/ForEachLoop",
         "Constructor_chaining/SameClass_UsingThis",
         "Class_Cast_Exeption",
         "AccessSpecifier",
-        "ObjectClass/hashcodeExp"
-    ]
+        "Datatypes/Generics"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
