@@ -9,11 +9,12 @@
         "Interface",
         "FactoryDesignPattern/FoodExample",
         "Encapsulation/ExpoEn",
+        "Datatypes/Generics",
         "Datatypes/ForEachLoop",
         "Constructor_chaining/SameClass_UsingThis",
         "Class_Cast_Exeption",
         "AccessSpecifier",
-        "Datatypes/Generics"
+        "CoreJavaMiniPojects"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
