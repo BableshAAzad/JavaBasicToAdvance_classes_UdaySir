@@ -11,10 +11,11 @@
         "Encapsulation/ExpoEn",
         "Datatypes/Generics",
         "Datatypes/ForEachLoop",
+        "CoreJavaMiniPojects",
         "Constructor_chaining/SameClass_UsingThis",
         "Class_Cast_Exeption",
         "AccessSpecifier",
-        "CoreJavaMiniPojects"
+        "Abstraction"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

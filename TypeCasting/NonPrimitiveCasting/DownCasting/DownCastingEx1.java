@@ -1,4 +1,4 @@
-package TypeCasting.NonPrimitiveCasting.DownCasting;
+// package TypeCasting.NonPrimitiveCasting.DownCasting;
 
 class PersonP {
     String name = "Tom";
