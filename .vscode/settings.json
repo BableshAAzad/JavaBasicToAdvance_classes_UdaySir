@@ -15,7 +15,8 @@
         "Constructor_chaining/SameClass_UsingThis",
         "Class_Cast_Exeption",
         "AccessSpecifier",
-        "Abstraction"
+        "Abstraction",
+        "CollectionFramework/List/Vector"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
