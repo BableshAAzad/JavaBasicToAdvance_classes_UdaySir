@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "TypeCasting/PrimitiveCasting/Narrowing",
         "TypeCasting/NonPrimitiveCasting/DownCasting",
+        "SmallProjects",
         "Polymorphism/Run_Time_Polymorphism",
         "Polymorphism/Compile_Time_Polymorphism",
         "ObjectClass/hashcodeExp",
@@ -13,10 +14,11 @@
         "Datatypes/ForEachLoop",
         "CoreJavaMiniPojects",
         "Constructor_chaining/SameClass_UsingThis",
+        "CollectionFramework/List/Vector",
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "CollectionFramework/List/Vector"
+        "Encapsulation/passwordvalidate"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
