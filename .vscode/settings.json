@@ -7,18 +7,23 @@
         "Polymorphism/Compile_Time_Polymorphism",
         "ObjectClass/hashcodeExp",
         "MethodOverLoading",
+        "JavaUtilPackage/ListIteratorInterface",
+        "JavaUtilPackage/IteratorInterface",
+        "JavaLangPackage/ComparableInterfaceee",
         "Interface",
         "FactoryDesignPattern/FoodExample",
+        "Encapsulation/passwordvalidate",
         "Encapsulation/ExpoEn",
         "Datatypes/Generics",
         "Datatypes/ForEachLoop",
         "CoreJavaMiniPojects",
         "Constructor_chaining/SameClass_UsingThis",
+        "CollectionFramework/Set/TreeSet",
         "CollectionFramework/List/Vector",
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "Encapsulation/passwordvalidate"
+        "JavaUtilPackage/CollectionsClass"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
