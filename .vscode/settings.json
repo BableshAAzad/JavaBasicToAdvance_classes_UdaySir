@@ -9,6 +9,7 @@
         "MethodOverLoading",
         "JavaUtilPackage/ListIteratorInterface",
         "JavaUtilPackage/IteratorInterface",
+        "JavaUtilPackage/CollectionsClass",
         "JavaLangPackage/ComparableInterfaceee",
         "Interface",
         "FactoryDesignPattern/FoodExample",
@@ -23,7 +24,7 @@
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "JavaUtilPackage/CollectionsClass"
+        "JavaUtilPackage/ComparatorInterface"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
