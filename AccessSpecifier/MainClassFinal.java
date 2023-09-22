@@ -1,4 +1,4 @@
-public class MainClassFinal {
+final public class MainClassFinal {
     public static void main(String[] args) {
         MainClassFinal2 m2 = new MainClassFinal2();
         m2.mainMethod1();
