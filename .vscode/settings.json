@@ -9,10 +9,13 @@
         "MethodOverLoading",
         "JavaUtilPackage/ListIteratorInterface",
         "JavaUtilPackage/IteratorInterface",
+        "JavaUtilPackage/ComparatorInterface",
         "JavaUtilPackage/CollectionsClass",
         "JavaLangPackage/ComparableInterfaceee",
         "Interface",
         "FactoryDesignPattern/FoodExample",
+        "ExceptionHandling/UserDefineException/UncheckExceptionCustom",
+        "ExceptionHandling/CheckException",
         "Encapsulation/passwordvalidate",
         "Encapsulation/ExpoEn",
         "Datatypes/Generics",
@@ -21,10 +24,11 @@
         "Constructor_chaining/SameClass_UsingThis",
         "CollectionFramework/Set/TreeSet",
         "CollectionFramework/List/Vector",
+        "CollectionFramework/List/ComparableAlandLL",
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "JavaUtilPackage/ComparatorInterface"
+        "CollectionFramework/List/LinkedList"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
