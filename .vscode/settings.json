@@ -23,12 +23,16 @@
         "CoreJavaMiniPojects",
         "Constructor_chaining/SameClass_UsingThis",
         "CollectionFramework/Set/TreeSet",
+        "CollectionFramework/Map/TreeMap",
+        "CollectionFramework/Map/HashTable",
+        "CollectionFramework/Map/HashMap",
         "CollectionFramework/List/Vector",
+        "CollectionFramework/List/LinkedList",
         "CollectionFramework/List/ComparableAlandLL",
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "CollectionFramework/List/LinkedList"
+        "CollectionFramework/Map/LikedHashMap"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
