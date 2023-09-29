@@ -24,6 +24,7 @@
         "Constructor_chaining/SameClass_UsingThis",
         "CollectionFramework/Set/TreeSet",
         "CollectionFramework/Map/TreeMap",
+        "CollectionFramework/Map/LikedHashMap",
         "CollectionFramework/Map/HashTable",
         "CollectionFramework/Map/HashMap",
         "CollectionFramework/List/Vector",
@@ -32,7 +33,7 @@
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "CollectionFramework/Map/LikedHashMap"
+        "CollectionFramework/Queue"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
