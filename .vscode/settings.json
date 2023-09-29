@@ -23,6 +23,7 @@
         "CoreJavaMiniPojects",
         "Constructor_chaining/SameClass_UsingThis",
         "CollectionFramework/Set/TreeSet",
+        "CollectionFramework/Queue",
         "CollectionFramework/Map/TreeMap",
         "CollectionFramework/Map/LikedHashMap",
         "CollectionFramework/Map/HashTable",
@@ -33,7 +34,7 @@
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "CollectionFramework/Queue"
+        "JavaLangPackage/StringClass"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
