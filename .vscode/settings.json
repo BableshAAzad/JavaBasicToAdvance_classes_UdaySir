@@ -11,10 +11,13 @@
         "JavaUtilPackage/IteratorInterface",
         "JavaUtilPackage/ComparatorInterface",
         "JavaUtilPackage/CollectionsClass",
+        "JavaLangPackage/StringClass",
         "JavaLangPackage/ComparableInterfaceee",
         "Interface",
         "FactoryDesignPattern/FoodExample",
+        "ExceptionHandling/printStackTraceMethod",
         "ExceptionHandling/UserDefineException/UncheckExceptionCustom",
+        "ExceptionHandling/UncheckedException",
         "ExceptionHandling/CheckException",
         "Encapsulation/passwordvalidate",
         "Encapsulation/ExpoEn",
@@ -34,7 +37,7 @@
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "JavaLangPackage/StringClass"
+        "ObjectClass/equalsMethod"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
