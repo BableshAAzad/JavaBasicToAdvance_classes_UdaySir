@@ -5,7 +5,8 @@
         "SmallProjects",
         "Polymorphism/Run_Time_Polymorphism",
         "Polymorphism/Compile_Time_Polymorphism",
-        "ObjectClass/hashcodeExp",
+        "ObjectClass/hashcodeMethod",
+        "ObjectClass/equalsMethod",
         "MethodOverLoading",
         "JavaUtilPackage/ListIteratorInterface",
         "JavaUtilPackage/IteratorInterface",
@@ -37,7 +38,7 @@
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "ObjectClass/equalsMethod"
+        "ObjectClass/toStringMethod"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

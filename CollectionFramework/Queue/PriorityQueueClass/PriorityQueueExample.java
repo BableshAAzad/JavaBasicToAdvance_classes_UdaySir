@@ -1,23 +1,23 @@
-import java.util.LinkedList;
-import java.util.Queue;
+package PriorityQueueClass;
+import java.util.PriorityQueue;
 
-public class LinkedListQueueExample {
+public class PriorityQueueExample {
     public static void main(String[] args) {
-        Queue<Integer> queue = new LinkedList<Integer>();
+        PriorityQueue<Integer> queue = new PriorityQueue<Integer>();
         queue.add(40);
         queue.add(10);
         queue.add(30);
         queue.add(20);
         System.out.println(queue);
-        queue.offer(10);
+        queue.offer(50);
         System.out.println(queue);
         System.out.println(queue.size());
         System.out.println("-----------------");
         System.out.println(queue.element());
-        System.out.println(queue.element());
+        System.out.println(queue);
         System.out.println("-----------------");
         System.out.println(queue.peek());
-        System.out.println(queue.peek());
+        System.out.println(queue);
         System.out.println("-----------------");
         System.out.println(queue.remove());
         System.out.println(queue);
@@ -30,29 +30,26 @@ public class LinkedListQueueExample {
         System.out.println(queue);
         System.out.println(queue.isEmpty());
         System.out.println(queue.size());
-
     }
-    /**
-     * Output :
-     * [40, 10, 30, 20]
-     * [40, 10, 30, 20, 10]
-     * 5
-     * -----------------
-     * 40
-     * 40
-     * -----------------
-     * 40
-     * 40
-     * -----------------
-     * 40
-     * [10, 30, 20, 10]
-     * -----------------
-     * 10
-     * [30, 20, 10]
-     * -----------------
-     * false
-     * []
-     * true
-     * 0
-     */
+    // Ountput :
+    // [10, 20, 30, 40]
+    // [10, 20, 30, 40, 50]
+    // 5
+    // -----------------
+    // 10
+    // [10, 20, 30, 40, 50]
+    // -----------------
+    // 10
+    // [10, 20, 30, 40, 50]
+    // -----------------
+    // 10
+    // [20, 40, 30, 50]
+    // -----------------
+    // 20
+    // [30, 40, 50]
+    // -----------------
+    // false
+    // []
+    // true
+    // 0
 }
