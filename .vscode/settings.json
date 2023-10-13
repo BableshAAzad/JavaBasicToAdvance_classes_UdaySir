@@ -36,10 +36,11 @@
         "CollectionFramework/List/Vector",
         "CollectionFramework/List/LinkedList",
         "CollectionFramework/List/ComparableAlandLL",
+        "CollectionFramework/List/ArrayList",
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "CollectionFramework/List/ArrayList"
+        "CollectionFramework/Set/HashSet"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
