@@ -17,7 +17,9 @@
         "JavaLangPackage/ComparableInterfaceee",
         "JavaFinalMock/RunTimePolymorphism",
         "JavaFinalMock/OverrideEqualsMethod",
+        "JavaFinalMock/ListUcingComparableAndSort",
         "JavaFinalMock/JavaBeanClass",
+        "JavaFinalMock/CustomException",
         "Interface",
         "FactoryDesignPattern/FoodExample",
         "ExceptionHandling/printStackTraceMethod",
@@ -45,7 +47,7 @@
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "JavaFinalMock/CustomException"
+        "JavaFinalMock/TreeSetUsingComparatot"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
