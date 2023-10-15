@@ -15,6 +15,9 @@
         "JavaUtilPackage/CollectionsClass",
         "JavaLangPackage/StringClass",
         "JavaLangPackage/ComparableInterfaceee",
+        "JavaFinalMock/RunTimePolymorphism",
+        "JavaFinalMock/OverrideEqualsMethod",
+        "JavaFinalMock/JavaBeanClass",
         "Interface",
         "FactoryDesignPattern/FoodExample",
         "ExceptionHandling/printStackTraceMethod",
@@ -28,6 +31,7 @@
         "CoreJavaMiniPojects",
         "Constructor_chaining/SameClass_UsingThis",
         "CollectionFramework/Set/TreeSet",
+        "CollectionFramework/Set/LinkedHashSet",
         "CollectionFramework/Set/HashSet",
         "CollectionFramework/Queue",
         "CollectionFramework/Map/TreeMap",
@@ -41,7 +45,7 @@
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "CollectionFramework/Set/LinkedHashSet"
+        "JavaFinalMock/CustomException"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
