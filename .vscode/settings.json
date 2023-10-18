@@ -15,6 +15,7 @@
         "JavaUtilPackage/CollectionsClass",
         "JavaLangPackage/StringClass",
         "JavaLangPackage/ComparableInterfaceee",
+        "JavaFinalMock/TreeSetUsingComparatot",
         "JavaFinalMock/RunTimePolymorphism",
         "JavaFinalMock/OverrideEqualsMethod",
         "JavaFinalMock/ListUcingComparableAndSort",
@@ -36,6 +37,7 @@
         "CollectionFramework/Set/LinkedHashSet",
         "CollectionFramework/Set/HashSet",
         "CollectionFramework/Queue",
+        "CollectionFramework/Practice/DifferenceBetweenListAndQue",
         "CollectionFramework/Map/TreeMap",
         "CollectionFramework/Map/LikedHashMap",
         "CollectionFramework/Map/HashTable",
@@ -47,7 +49,7 @@
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "JavaFinalMock/TreeSetUsingComparatot"
+        "Constructor_chaining/DifferentClass_UsingISARelationShip_or_Super/ExpliciteExample"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
