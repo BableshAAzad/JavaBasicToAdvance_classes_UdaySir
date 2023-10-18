@@ -33,6 +33,7 @@
         "Datatypes/ForEachLoop",
         "CoreJavaMiniPojects",
         "Constructor_chaining/SameClass_UsingThis",
+        "Constructor_chaining/DifferentClass_UsingISARelationShip_or_Super/ExpliciteExample",
         "CollectionFramework/Set/TreeSet",
         "CollectionFramework/Set/LinkedHashSet",
         "CollectionFramework/Set/HashSet",
@@ -49,7 +50,7 @@
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "Constructor_chaining/DifferentClass_UsingISARelationShip_or_Super/ExpliciteExample"
+        "Constructor_chaining/DifferentClass_UsingISARelationShip_or_Super/PracticeQuestion"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
