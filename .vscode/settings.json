@@ -37,6 +37,7 @@
         "Constructor_chaining/DifferentClass_UsingISARelationShip_or_Super/PracticeQuestion",
         "Constructor_chaining/DifferentClass_UsingISARelationShip_or_Super/ExpliciteExample",
         "CollectionFramework/StringDemo/StringD",
+        "CollectionFramework/StringDemo/StringBuilderD",
         "CollectionFramework/Set/TreeSet",
         "CollectionFramework/Set/LinkedHashSet",
         "CollectionFramework/Set/HashSet",
@@ -54,7 +55,7 @@
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "CollectionFramework/StringDemo/StringBuilderD"
+        "NastedClass/InnerClass/MethodLocalInnerClass"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
