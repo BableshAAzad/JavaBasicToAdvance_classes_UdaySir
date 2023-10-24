@@ -8,6 +8,7 @@
         "ObjectClass/toStringMethod",
         "ObjectClass/hashcodeMethod",
         "ObjectClass/equalsMethod",
+        "Method_Overriding/StaticAndNonStaticMethod",
         "MethodOverLoading",
         "JavaUtilPackage/ListIteratorInterface",
         "JavaUtilPackage/IteratorInterface",
@@ -35,11 +36,13 @@
         "Constructor_chaining/SameClass_UsingThis",
         "Constructor_chaining/DifferentClass_UsingISARelationShip_or_Super/PracticeQuestion",
         "Constructor_chaining/DifferentClass_UsingISARelationShip_or_Super/ExpliciteExample",
+        "CollectionFramework/StringDemo/StringD",
         "CollectionFramework/Set/TreeSet",
         "CollectionFramework/Set/LinkedHashSet",
         "CollectionFramework/Set/HashSet",
         "CollectionFramework/Queue",
         "CollectionFramework/Practice/DifferenceBetweenListAndQue",
+        "CollectionFramework/Practice/ArrayListToHashmap",
         "CollectionFramework/Map/TreeMap",
         "CollectionFramework/Map/LikedHashMap",
         "CollectionFramework/Map/HashTable",
@@ -47,12 +50,11 @@
         "CollectionFramework/List/Vector",
         "CollectionFramework/List/Stack",
         "CollectionFramework/List/LinkedList",
-        "CollectionFramework/List/ComparableAlandLL",
         "CollectionFramework/List/ArrayList",
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "CollectionFramework/Practice/ArrayListToHashmap"
+        "CollectionFramework/StringDemo/StringBuilderD"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
