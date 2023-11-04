@@ -8,6 +8,8 @@
         "ObjectClass/toStringMethod",
         "ObjectClass/hashcodeMethod",
         "ObjectClass/equalsMethod",
+        "NastedClass/InnerClass/MethodLocalInnerClass",
+        "NastedClass/InnerClass/InnerClassOrMemberInnerClass",
         "Method_Overriding/StaticAndNonStaticMethod",
         "MethodOverLoading",
         "JavaUtilPackage/ListIteratorInterface",
@@ -55,7 +57,7 @@
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "NastedClass/InnerClass/MethodLocalInnerClass"
+        "ExceptionHandling/CheckAgeForVotingCustomException"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
