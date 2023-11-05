@@ -30,6 +30,7 @@
         "ExceptionHandling/UserDefineException/UncheckExceptionCustom",
         "ExceptionHandling/UncheckedException",
         "ExceptionHandling/CheckException",
+        "ExceptionHandling/CheckAgeForVotingCustomException",
         "Encapsulation/passwordvalidate",
         "Encapsulation/ExpoEn",
         "Datatypes/Generics",
@@ -57,7 +58,7 @@
         "Class_Cast_Exeption",
         "AccessSpecifier",
         "Abstraction",
-        "ExceptionHandling/CheckAgeForVotingCustomException"
+        "Practice"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
